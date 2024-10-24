@@ -1,6 +1,4 @@
 # Project: Call Center Dashboard (Youtube Guided Project)
-![image](https://github.com/user-attachments/assets/849e7c29-7884-487a-9847-f7d61c0613ad)
-
 ## Project Overview 
 The Call Center Dashboard project involved building a dynamic dashboard that offers real-time insights into call center operations.
 By visualizing critical metrics such as call channel, call response time, and customer satisfaction, the dashboard provides stakeholders with an interactive platform for monitoring and improving service quality.
@@ -34,6 +32,9 @@ For example, through the dashboard’s visualization, management could quickly s
 ## Real-Time Visualization
 I presented insights through intuitive data visualizations such as bar charts for response time and call sentiments, pie charts for channel distribution and column charts for total inbound calls.
 The dashboard was designed to be interactive, allowing users to filter data by call day and call center slicers, facilitating more focused decision-making.
+
+![image](https://github.com/user-attachments/assets/d5a4e13d-5108-4b46-9e5f-bc61c374590a)
+
 
 ## Actionable Recommendations
 The real-time monitoring capabilities of the dashboard could empower management to take immediate action, such as investigating customer dissatisfaction patterns.
